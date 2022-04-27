@@ -3,7 +3,7 @@ const { json } = require('express/lib/response');
 const fs = require('fs');
 const path = require('path');
 const uuid = require('./helpers/uuid');
-const PORT = 3001;
+const PORT = process.env.port || 3001;
 
 const app = express();
 

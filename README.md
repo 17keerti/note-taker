@@ -16,6 +16,10 @@ An app that can be used to write, save notes. This applications is for users to 
 
 ## Video
 
+https://user-images.githubusercontent.com/102001384/165888116-e8fb4121-dfa9-40cb-9559-02205c0cabd3.mp4
+
+
+
 
 ## Installation
 
